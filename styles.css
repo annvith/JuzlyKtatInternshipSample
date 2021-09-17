@@ -1,0 +1,8 @@
+.accordion-button:focus {
+  box-shadow: none;
+ 
+}
+
+.accordion-body{
+  box-shadow: 0px 8px 5px #ced4da inset, 0px -8px 5px #ced4da inset;
+}
